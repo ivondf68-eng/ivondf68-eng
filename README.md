@@ -1,8 +1,8 @@
 # Hi, I'm Ivon Dutra 👋
 
 ### Formação
-- # IFSul - Câmpus Pelotas (Tecnologia em Sistemas para Internet - Graduação)
-- # Growdev (Curso de formação Web Full Stack)
+- ### IFSul - Câmpus Pelotas (Tecnologia em Sistemas para Internet - Graduação)
+- ### Growdev (Curso de formação Web Full Stack)
 
 ### Linguagens
 
